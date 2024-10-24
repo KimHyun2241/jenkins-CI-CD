@@ -5,7 +5,7 @@
     <h2>Tomcat server. ansible test by song</h2>
     <hr>
     <h1>${msg}</h1>
-    <h1>Hi there !Update Update Update!</h1>
+    <h1>Hi there !Update 10.24!</h1>
     <h2>Today is <fmt:formatDate value="${today}" pattern="yyyy-MM-dd" /></h2>
     <h3>Version: 9.2</h3>
 </body>
